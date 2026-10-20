@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0816"/><stop offset="1" stop-color="#151027"/></linearGradient>
-<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e8b64c"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient></defs>
-<rect width="1200" height="300" rx="14" fill="url(#g)"/>
-<rect x="1.5" y="1.5" width="1197" height="297" rx="13" fill="none" stroke="#2f2752" stroke-width="3"/>
-<text x="60" y="128" font-family="Cinzel,Georgia,serif" font-size="64" font-weight="bold" fill="#ffd98a">Bruno Gebara</text><rect x="60" y="146" width="220" height="4" rx="2" fill="url(#a)"/><text x="60" y="196" font-family="Cinzel,Georgia,serif" font-size="28" font-weight="normal" fill="#ece8f7">Dados · Python · IA</text><text x="60" y="236" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="normal" fill="#a9a1c6">Experimentos de dados e IA, registrados aqui · Data &amp; AI experiments, logged here</text><circle cx="66" cy="268" r="7" fill="#e8b64c"/><circle cx="88" cy="268" r="7" fill="#e5483d"/><circle cx="110" cy="268" r="7" fill="#3c72ff"/><circle cx="132" cy="268" r="7" fill="#ff8a3d"/><circle cx="1080" cy="150" r="96" fill="none" stroke="#2f2752" stroke-width="3"/><circle cx="1080" cy="150" r="60" fill="none" stroke="#e8b64c" stroke-width="3" opacity=".7"/><circle cx="1080" cy="150" r="21" fill="#ff8a3d"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200"><rect width="1200" height="200" fill="#fff"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="2.4s" repeatCount="indefinite"/>
+<circle cx="330" cy="100" r="58" fill="#e8b64c" stroke="#151027" stroke-width="7"/><circle cx="330" cy="100" r="42" fill="none" stroke="#b8841c" stroke-width="4"/><text x="330" y="122" font-family="Courier New,Courier,monospace" font-size="62" font-weight="bold" fill="#151027" text-anchor="middle">B</text></g>
+<text x="420" y="108" font-family="Courier New,Courier,monospace" font-size="76" font-weight="bold" fill="#151027" letter-spacing="1">Bruno Gebara</text>
+<text x="424" y="152" font-family="Courier New,Courier,monospace" font-size="26" font-weight="normal" fill="#5b5478" >Dados · Python · IA &#160;|&#160; Data &amp; AI</text>
+</svg>
