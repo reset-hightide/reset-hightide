@@ -1,46 +1,32 @@
-<h1 align="center">Bruno Gebara</h1>
+<h1 align="center">🧪 Bruno Gebara</h1>
+
+<p align="center"><b>📊 Lidero um time de dados · Experimentos com dados, Python e IA</b><br><i>I lead a data team · Experiments with data, Python and AI</i></p>
+
+<p align="center"><b><i>Este GitHub é o meu laboratório: registro aqui cada avanço.</i></b><br>
+<i>This GitHub is my lab: I log every step of progress here.</i></p>
 
 <p align="center">
-  <a href="#português">🇧🇷 Português</a> ·
-  <a href="#english">🇺🇸 English</a> ·
-  <a href="https://github.com/reset-hightide/-brasil-por-governo">📊 Brasil por Governo</a> ·
-  <a href="https://github.com/reset-hightide/course-backup-kit">🎞️ Course Backup Kit</a> ·
-  <a href="https://github.com/reset-hightide/heros-shield-artwork-hd">💎 Hero's Shield HD</a> ·
-  <a href="https://www.linkedin.com/in/brunogebarapenatti/">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/brunogebarapenatti/"><img src="https://img.shields.io/badge/💼_LINKEDIN-e8b64c?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://reset-hightide.github.io/-brasil-por-governo/"><img src="https://img.shields.io/badge/📊_BRASIL_POR_GOVERNO-3c72ff?style=for-the-badge" alt="Brasil por Governo"></a>
+<a href="https://reset-hightide.github.io/heros-shield-artwork-hd/"><img src="https://img.shields.io/badge/🛡_HERO'S_SHIELD_HD-3c72ff?style=for-the-badge" alt="Hero's Shield HD"></a>
 </p>
 
-# Português
+---
 
-Oi, eu sou o **Bruno Gebara**! ⚡️ Eu **lidero um time de dados** e uso este GitHub como laboratório: aqui eu faço **experimentos com dados, Python e IA** e registro cada avanço, do rascunho ao resultado. 📈 🐍 🤖
+## 🛠️ Projetos · Projects
 
-**Acompanhe a jornada ⋆˙⟡**
+<p align="center"><b>📊 <a href="https://github.com/reset-hightide/-brasil-por-governo">Brasil por Governo</a></b><br>
+33 indicadores do Brasil, de 1979 a 2025, por governo<br>
+<i>33 indicators of Brazil, 1979 to 2025, by administration</i></p>
+
+<p align="center"><b>🎞️ <a href="https://github.com/reset-hightide/course-backup-kit">Course Backup Kit</a></b><br>
+Backup organizado de cursos online, com log, relatório e avisos<br>
+<i>Organized backup of online courses, with log, report and alerts</i></p>
+
+<p align="center"><b>🛡️ <a href="https://github.com/reset-hightide/heros-shield-artwork-hd">Hero's Shield Artwork HD</a></b><br>
+Mod de arte HD para Zelda 64: Recompiled (Majora's Mask)<br>
+<i>HD artwork mod for Zelda 64: Recompiled (Majora's Mask)</i></p>
 
 ---
 
-- 🧭 [Brasil por Governo](https://github.com/reset-hightide/-brasil-por-governo) · [abrir o painel](https://reset-hightide.github.io/-brasil-por-governo/): 33 indicadores do Brasil, de 1979 a 2025, por governo
-- 🎞️ [Course Backup Kit](https://github.com/reset-hightide/course-backup-kit): backup organizado de cursos online, com log, relatório e avisos
-- 💎 [Hero's Shield HD](https://github.com/reset-hightide/heros-shield-artwork-hd) · [ver o site](https://reset-hightide.github.io/heros-shield-artwork-hd/): mod de arte HD para Zelda 64: Recompiled
-- 🫶 [Vamos conversar no LinkedIn](https://www.linkedin.com/in/brunogebarapenatti/)
-
-<br clear="right">
-
----
-
-# English
-
-Hi, I'm **Bruno Gebara**! ⚡️ I **lead a data team** and use this GitHub as a lab: I run **experiments with data, Python and AI** and log every step of progress, from first draft to result. 📈 🐍 🤖
-
-**Follow the journey ⋆˙⟡**
-
----
-
-- 🧭 [Brasil por Governo](https://github.com/reset-hightide/-brasil-por-governo) · [open the dashboard](https://reset-hightide.github.io/-brasil-por-governo/): 33 indicators of Brazil, 1979 to 2025, by administration
-- 🎞️ [Course Backup Kit](https://github.com/reset-hightide/course-backup-kit): organized backup of online courses, with log, report and alerts
-- 💎 [Hero's Shield HD](https://github.com/reset-hightide/heros-shield-artwork-hd) · [see the site](https://reset-hightide.github.io/heros-shield-artwork-hd/): HD artwork mod for Zelda 64: Recompiled
-- 🫶 [Let's talk on LinkedIn](https://www.linkedin.com/in/brunogebarapenatti/)
-
-<br clear="right">
-
----
-
-<p align="center">Feito com ❤️ no Brasil · Made with ❤️ in Brazil</p>
+<p align="center"><i>Feito com ❤️ no Brasil · Made with ❤️ in Brazil</i></p>
