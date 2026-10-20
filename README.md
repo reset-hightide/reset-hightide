@@ -27,6 +27,4 @@ Backup organizado de cursos online, com log, relatório e avisos<br>
 Mod de arte HD para Zelda 64: Recompiled (Majora's Mask)<br>
 <i>HD artwork mod for Zelda 64: Recompiled (Majora's Mask)</i></p>
 
----
 
-<p align="center"><i>Feito com ❤️ no Brasil · Made with ❤️ in Brazil</i></p>
