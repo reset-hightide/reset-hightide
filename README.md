@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Bruno Gebara" width="100%">
+  <img src="assets/banner.gif" alt="Bruno Gebara" width="100%">
 </p>
 
 <p align="center">
-  <a href="#portugues">🇧🇷 Português</a> ·
+  <a href="#português">🇧🇷 Português</a> ·
   <a href="#english">🇺🇸 English</a> ·
   <a href="https://github.com/reset-hightide/-brasil-por-governo">📊 Brasil por Governo</a> ·
   <a href="https://github.com/reset-hightide/course-backup-kit">🎞️ Course Backup Kit</a> ·
@@ -11,9 +11,9 @@
   <a href="https://www.linkedin.com/in/brunogebarapenatti/">💼 LinkedIn</a>
 </p>
 
-# Portugues
+# Português
 
-<img align="right" src="assets/lab.svg" alt="Laboratório de dados animado" width="260">
+<img align="right" src="assets/lab.gif" alt="Laboratório de dados animado" width="260">
 
 Oi, eu sou o **Bruno Gebara**! ⚡️ Eu **lidero um time de dados** e uso este GitHub como laboratório: aqui eu faço **experimentos com dados, Python e IA** e registro cada avanço, do rascunho ao resultado. 📈 🐍 🤖
 
@@ -32,7 +32,7 @@ Oi, eu sou o **Bruno Gebara**! ⚡️ Eu **lidero um time de dados** e uso este 
 
 # English
 
-<img align="right" src="assets/lab.svg" alt="Animated data lab" width="260">
+<img align="right" src="assets/lab.gif" alt="Animated data lab" width="260">
 
 Hi, I'm **Bruno Gebara**! ⚡️ I **lead a data team** and use this GitHub as a lab: I run **experiments with data, Python and AI** and log every step of progress, from first draft to result. 📈 🐍 🤖
 
