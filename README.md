@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.png" alt="Bruno Gebara" width="100%">
-</p>
+<h1 align="center">Bruno Gebara</h1>
 
 <p align="center">
   <a href="#português">🇧🇷 Português</a> ·
