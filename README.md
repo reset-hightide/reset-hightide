@@ -1,55 +1,52 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Bruno Gebara · Dados, Python e IA" width="100%">
+  <img src="assets/banner.svg" alt="Bruno Gebara" width="100%">
 </p>
 
-# Olá, eu sou o Bruno 👋 · Hi, I'm Bruno 👋
+<p align="center">
+  <a href="#portugues">🇧🇷 Português</a> ·
+  <a href="#english">🇺🇸 English</a> ·
+  <a href="https://github.com/reset-hightide/-brasil-por-governo">📊 Brasil por Governo</a> ·
+  <a href="https://github.com/reset-hightide/course-backup-kit">🎞️ Course Backup Kit</a> ·
+  <a href="https://github.com/reset-hightide/heros-shield-artwork-hd">💎 Hero's Shield HD</a> ·
+  <a href="https://www.linkedin.com/in/brunogebarapenatti/">💼 LinkedIn</a>
+</p>
 
-🇧🇷 **Português** · [🇺🇸 English](#-english)
+# Portugues
 
----
+<img align="right" src="assets/lab.svg" alt="Laboratório de dados animado" width="260">
 
-## 🇧🇷 Português
+Oi, eu sou o **Bruno Gebara**! ⚡️ Eu **lidero um time de dados** e uso este GitHub como laboratório: aqui eu faço **experimentos com dados, Python e IA** e registro cada avanço, do rascunho ao resultado. 📈 🐍 🤖
 
-Sou **Bruno Gebara** e **lidero um time de dados**. Este GitHub é o meu laboratório: aqui eu faço **experimentos com dados, Python e IA** e registro cada avanço, do rascunho ao resultado.
-
-### 🧭 O que você encontra aqui
-
-- 🧪 Experimentos de **dados** e **análise** em Python
-- 🤖 Testes práticos com **inteligência artificial**
-- 📊 Painéis e ferramentas que nascem da curiosidade
-
-### 🛠️ Projetos
-
-| | Projeto | O que é |
-|---|---|---|
-| 📊 | [**Brasil por Governo**](https://github.com/reset-hightide/-brasil-por-governo) · [site](https://reset-hightide.github.io/-brasil-por-governo/) | Painel de dados com 33 indicadores do Brasil, de 1979 a 2025, por governo |
-| 🎞️ | [**Course Backup Kit**](https://github.com/reset-hightide/course-backup-kit) | Backup organizado de cursos online que você comprou, com log, relatório e avisos |
-| 💎 | [**Hero's Shield HD**](https://github.com/reset-hightide/heros-shield-artwork-hd) · [site](https://reset-hightide.github.io/heros-shield-artwork-hd/) | Mod de arte HD para Zelda 64: Recompiled (Majora's Mask) |
-
-### 🤝 Vamos conversar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Gebara-e8b64c?style=for-the-badge&labelColor=151027&logo=linkedin&logoColor=ece8f7)](https://www.linkedin.com/in/brunogebarapenatti/)
+**Acompanhe a jornada ⋆˙⟡**
 
 ---
 
-## 🇺🇸 English
+- 🧭 [Brasil por Governo](https://github.com/reset-hightide/-brasil-por-governo) · [abrir o painel](https://reset-hightide.github.io/-brasil-por-governo/): 33 indicadores do Brasil, de 1979 a 2025, por governo
+- 🎞️ [Course Backup Kit](https://github.com/reset-hightide/course-backup-kit): backup organizado de cursos online, com log, relatório e avisos
+- 💎 [Hero's Shield HD](https://github.com/reset-hightide/heros-shield-artwork-hd) · [ver o site](https://reset-hightide.github.io/heros-shield-artwork-hd/): mod de arte HD para Zelda 64: Recompiled
+- 🫶 [Vamos conversar no LinkedIn](https://www.linkedin.com/in/brunogebarapenatti/)
 
-I'm **Bruno Gebara** and I **lead a data team**. This GitHub is my lab: I run **experiments with data, Python and AI** and log every step of progress, from first draft to result.
+<br clear="right">
 
-### 🧭 What you'll find here
+---
 
-- 🧪 **Data** and **analysis** experiments in Python
-- 🤖 Hands-on tests with **artificial intelligence**
-- 📊 Dashboards and tools that start from curiosity
+# English
 
-### 🛠️ Projects
+<img align="right" src="assets/lab.svg" alt="Animated data lab" width="260">
 
-| | Project | What it is |
-|---|---|---|
-| 📊 | [**Brasil por Governo**](https://github.com/reset-hightide/-brasil-por-governo) · [site](https://reset-hightide.github.io/-brasil-por-governo/) | Data dashboard with 33 indicators of Brazil, 1979 to 2025, by administration |
-| 🎞️ | [**Course Backup Kit**](https://github.com/reset-hightide/course-backup-kit) | Organized backup of online courses you bought, with log, report and alerts |
-| 💎 | [**Hero's Shield HD**](https://github.com/reset-hightide/heros-shield-artwork-hd) · [site](https://reset-hightide.github.io/heros-shield-artwork-hd/) | HD artwork mod for Zelda 64: Recompiled (Majora's Mask) |
+Hi, I'm **Bruno Gebara**! ⚡️ I **lead a data team** and use this GitHub as a lab: I run **experiments with data, Python and AI** and log every step of progress, from first draft to result. 📈 🐍 🤖
 
-### 🤝 Let's talk
+**Follow the journey ⋆˙⟡**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Gebara-e8b64c?style=for-the-badge&labelColor=151027&logo=linkedin&logoColor=ece8f7)](https://www.linkedin.com/in/brunogebarapenatti/)
+---
+
+- 🧭 [Brasil por Governo](https://github.com/reset-hightide/-brasil-por-governo) · [open the dashboard](https://reset-hightide.github.io/-brasil-por-governo/): 33 indicators of Brazil, 1979 to 2025, by administration
+- 🎞️ [Course Backup Kit](https://github.com/reset-hightide/course-backup-kit): organized backup of online courses, with log, report and alerts
+- 💎 [Hero's Shield HD](https://github.com/reset-hightide/heros-shield-artwork-hd) · [see the site](https://reset-hightide.github.io/heros-shield-artwork-hd/): HD artwork mod for Zelda 64: Recompiled
+- 🫶 [Let's talk on LinkedIn](https://www.linkedin.com/in/brunogebarapenatti/)
+
+<br clear="right">
+
+---
+
+<p align="center">Feito com ❤️ no Brasil · Made with ❤️ in Brazil</p>
