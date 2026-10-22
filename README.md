@@ -18,12 +18,12 @@
 <h3 align="center">🤖 Automações com Claude · Claude automations</h3>
 
 <p align="center"><b>🎬 <a href="https://github.com/reset-hightide/drive-video-sorter">Drive Video Sorter</a></b><br>
-Separa vídeos e fotos soltos de uma pasta do Google Drive em pastas por conteúdo, pela fala, pelo horário e pela imagem<br>
-<i>Sorts loose videos and photos in a Google Drive folder into content folders, by speech, recording time and image</i></p>
+Automação que separa vídeos e fotos soltos da câmera: transcreve a fala, lê o horário de gravação e interpreta a imagem para entender o contexto, cria as pastas por assunto no Google Drive e organiza tudo por conteúdo. Pensada para quem grava muito material para redes sociais<br>
+<i>Automation that sorts loose camera videos and photos: it transcribes speech, reads the recording time and interprets the image to understand context, then creates folders by topic in Google Drive and sorts everything by content. Built for anyone who shoots a lot of social media material</i></p>
 
 <p align="center"><b>🎞️ <a href="https://github.com/reset-hightide/course-backup-kit">Course Backup Kit</a></b><br>
-Backup organizado de cursos online, com log, relatório e avisos<br>
-<i>Organized backup of online courses, with log, report and alerts</i></p>
+Automação para guardar uma cópia dos cursos online que você comprou: baixa os vídeos e anexos de cada aula, mantém a mesma estrutura de módulos e aulas do site, gera catálogo e relatório e avisa o progresso (WhatsApp, Telegram...). Testado em um curso real: 190 vídeos e 316 anexos, 24 GB, sem erros<br>
+<i>Automation to keep a copy of the online courses you bought: it downloads each lesson's videos and attachments, keeps the site's module and lesson structure, builds a catalog and report, and sends progress alerts (WhatsApp, Telegram...). Tested on a real course: 190 videos and 316 attachments, 24 GB, zero errors</i></p>
 
 <h3 align="center">📊 Dados · Data</h3>
 
