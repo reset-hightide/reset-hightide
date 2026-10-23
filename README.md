@@ -6,10 +6,7 @@
 <i>This GitHub is my lab: I log every step of progress here.</i></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brunogebarapenatti/"><img src="https://img.shields.io/badge/💼_LINKEDIN-e8b64c?style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://reset-hightide.github.io/-brasil-por-governo/"><img src="https://img.shields.io/badge/📊_BRASIL_POR_GOVERNO-3c72ff?style=for-the-badge" alt="Brasil por Governo"></a>
-<a href="https://reset-hightide.github.io/heros-shield-artwork-hd/"><img src="https://img.shields.io/badge/🛡_HERO'S_SHIELD_HD-3c72ff?style=for-the-badge" alt="Hero's Shield HD"></a>
-</p>
+<a href="https://www.linkedin.com/in/brunogebarapenatti/">
 
 ---
 
