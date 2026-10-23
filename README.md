@@ -5,9 +5,6 @@
 <p align="center"><b><i>Este GitHub é o meu laboratório: registro aqui cada avanço.</i></b><br>
 <i>This GitHub is my lab: I log every step of progress here.</i></p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/brunogebarapenatti/">
-
 ---
 
 ## 📰 Novidades · What's new
