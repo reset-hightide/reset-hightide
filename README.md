@@ -13,6 +13,20 @@
 
 ---
 
+## 📰 Novidades · What's new
+
+<sub>Cada projeto novo ou avanço entra aqui, do mais recente para o mais antigo · Every new project or step lands here, newest first</sub>
+
+| Data · Date | Novidade · What's new |
+|---|---|
+| **23/10/2026** | 🎴 **[Calculadora de Terrenos para Magic](https://reset-hightide.github.io/mtg-lands-calculator/)**: quantos terrenos e quantas fontes de cada cor o seu deck precisa, baseada no meu TCC (regressão em 39 mil decks), com mão de teste e playtest em cima do site<br><i>Magic land calculator: how many lands and sources of each color your deck needs, based on my thesis (regression on 39k decks), with a test hand and an on-page playtest</i> |
+| **22/10/2026** | 🎬 **[Drive Video Sorter](https://github.com/reset-hightide/drive-video-sorter)**: separa vídeos e fotos soltos do Google Drive por assunto<br><i>sorts loose Google Drive videos and photos by topic</i> |
+| **22/10/2026** | 🎞️ **[Course Backup Kit](https://github.com/reset-hightide/course-backup-kit)**: backup organizado dos cursos online que você comprou<br><i>organized backup of the online courses you bought</i> |
+| **22/10/2026** | 📊 **[Brasil por Governo](https://reset-hightide.github.io/-brasil-por-governo/)**: 33 indicadores do Brasil, de 1979 a 2025, por governo<br><i>33 indicators of Brazil, 1979 to 2025, by administration</i> |
+| **22/10/2026** | 🛡️ **[Hero's Shield Artwork HD](https://reset-hightide.github.io/heros-shield-artwork-hd/)**: mod de arte HD para Zelda 64: Recompiled<br><i>HD artwork mod for Zelda 64: Recompiled</i> |
+
+---
+
 ## 🛠️ Projetos · Projects
 
 <h3 align="center">🤖 Automações com Claude · Claude automations</h3>
@@ -36,3 +50,9 @@ Automação para guardar uma cópia dos cursos online que você comprou: baixa o
 <p align="center"><b>🛡️ <a href="https://github.com/reset-hightide/heros-shield-artwork-hd">Hero's Shield Artwork HD</a></b><br>
 Mod de arte HD para Zelda 64: Recompiled (Majora's Mask)<br>
 <i>HD artwork mod for Zelda 64: Recompiled (Majora's Mask)</i></p>
+
+<h3 align="center">🎴 Magic</h3>
+
+<p align="center"><b>🎴 <a href="https://github.com/reset-hightide/mtg-lands-calculator">Calculadora de Terrenos</a></b><br>
+Quantos terrenos e quantas fontes de cada cor o seu deck precisa: cole a lista, leia a resposta e compre uma mão de teste. Baseada no meu TCC (regressão linear em 39 mil decks), com Scryfall, Archidekt e Excel<br>
+<i>How many lands and sources of each color your deck needs: paste the list, read the answer and draw a test hand. Based on my thesis (linear regression on 39k decks), with Scryfall, Archidekt and Excel</i></p>
