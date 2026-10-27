@@ -75,6 +75,6 @@ O escudo do herói, em alta definição. Um mod de arte para Zelda 64: Recompile
 
 <p align="center"><b>🎴 <a href="https://github.com/reset-hightide/mtg-lands-calculator">Calculadora de Terrenos</a></b><br>
 Quantos terrenos o seu deck precisa? Cole a lista. Leia a resposta. Compre uma mão de teste. Baseada em regressão linear de 39 mil decks.<br>
-<b>💡 Aprendi:</b> regressão linear num problema real, e APIs (Scryfall e Archidekt) com Excel.<br>
+<b>💡 Aprendi:</b> regressão linear num problema real, a API do Scryfall e a leitura de listas de texto do Archidekt, Arena, MTGO e Moxfield.<br>
 <i>How many lands does your deck need? Paste the list. Read the answer. Draw a test hand. Built on a linear regression of 39,000 decks.</i><br>
-<i><b>💡 Learned:</b> linear regression on a real problem, and APIs (Scryfall and Archidekt) with Excel.</i></p>
+<i><b>💡 Learned:</b> linear regression on a real problem, the Scryfall API and parsing text lists from Archidekt, Arena, MTGO and Moxfield.</i></p>
